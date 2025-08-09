@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Diego Mariucci</h1>
 
 # 💫 About Me:
 I’m a computer science student passionate about coding, problem solving, and building useful applications. I enjoy exploring new technologies, improving my skills every day, and challenging myself through competitive programming.<br><br>
